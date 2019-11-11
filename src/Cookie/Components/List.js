@@ -15,7 +15,7 @@ function List(props) {
                             </tr>
                         </thead>
                         <tbody>
-                            {Object.keys(props.allCookies).map((cookie) =>
+                            {Object.keys(props.allCookies).sort().map((cookie) =>
                                 <tr key={cookie} className="cookie-item">
                                     <td>{cookie}</td>
                                     <td>{props.allCookies[cookie]}</td>

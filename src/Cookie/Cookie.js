@@ -5,6 +5,7 @@ import List from './Components/List';
 import Delete from './Components/Delete';
 import Create from './Components/Create';
 import Update from './Components/Update';
+import './Cookie.css'
 
 const cookies = new Cookies();
 

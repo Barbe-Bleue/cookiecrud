@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cookiecrud/static/css/main.e37a0505.chunk.css",
+    "main.js": "/cookiecrud/static/js/main.9259c16e.chunk.js",
+    "main.js.map": "/cookiecrud/static/js/main.9259c16e.chunk.js.map",
+    "runtime-main.js": "/cookiecrud/static/js/runtime-main.26fe1535.js",
+    "runtime-main.js.map": "/cookiecrud/static/js/runtime-main.26fe1535.js.map",
+    "static/js/2.c8e1dce7.chunk.js": "/cookiecrud/static/js/2.c8e1dce7.chunk.js",
+    "static/js/2.c8e1dce7.chunk.js.map": "/cookiecrud/static/js/2.c8e1dce7.chunk.js.map",
+    "index.html": "/cookiecrud/index.html",
+    "precache-manifest.0152f0a7a9e125ad16341a71bdf8e966.js": "/cookiecrud/precache-manifest.0152f0a7a9e125ad16341a71bdf8e966.js",
+    "service-worker.js": "/cookiecrud/service-worker.js",
+    "static/css/main.e37a0505.chunk.css.map": "/cookiecrud/static/css/main.e37a0505.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26fe1535.js",
+    "static/js/2.c8e1dce7.chunk.js",
+    "static/css/main.e37a0505.chunk.css",
+    "static/js/main.9259c16e.chunk.js"
+  ]
+}

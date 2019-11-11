@@ -67,11 +67,13 @@ class Cookie extends React.Component {
     }
 
     updateCookie(cookie, value) {
-        cookies.set(cookie, value);
+        if(cookie !== '' && value !== '') {
+            cookies.set(cookie, value);
 
-        this.reloadCookieList();
+            this.reloadCookieList();
 
-        this.setState({ inputValue: '' })
+            this.setState({ inputValue: '' })
+        }
     }
 
     removeAllCookies() {
@@ -83,16 +85,18 @@ class Cookie extends React.Component {
     }
 
     createCookie(cookie, value) {
-        cookies.set(cookie, value, { maxAge: 7200 });
+        if(cookie !== '' && value !== '') {
+            cookies.set(cookie, value, { maxAge: 7200 });
 
-        this.reloadCookieList();
+            this.reloadCookieList();
+        }
     }
 
     render() {
         const { allCookies, cookieName, cookieValue, inputValue, selectValue } = this.state;
 
         return (
-            <div className="App">
+            <div>
                 <Header setRandomCookies={this.setRandomCookies} />
                 <div className="cookies">
                     <Create

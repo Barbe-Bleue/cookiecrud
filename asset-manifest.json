@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cookiecrud/static/css/main.6ff23483.chunk.css",
-    "main.js": "/cookiecrud/static/js/main.a1a7f7d6.chunk.js",
-    "main.js.map": "/cookiecrud/static/js/main.a1a7f7d6.chunk.js.map",
+    "main.js": "/cookiecrud/static/js/main.19dc1bab.chunk.js",
+    "main.js.map": "/cookiecrud/static/js/main.19dc1bab.chunk.js.map",
     "runtime-main.js": "/cookiecrud/static/js/runtime-main.26fe1535.js",
     "runtime-main.js.map": "/cookiecrud/static/js/runtime-main.26fe1535.js.map",
     "static/js/2.c8e1dce7.chunk.js": "/cookiecrud/static/js/2.c8e1dce7.chunk.js",
     "static/js/2.c8e1dce7.chunk.js.map": "/cookiecrud/static/js/2.c8e1dce7.chunk.js.map",
     "index.html": "/cookiecrud/index.html",
-    "precache-manifest.0c420833a74ade57a35f648d62dfc3db.js": "/cookiecrud/precache-manifest.0c420833a74ade57a35f648d62dfc3db.js",
+    "precache-manifest.34038ecbc6b5a235c81a0e68a044a6b0.js": "/cookiecrud/precache-manifest.34038ecbc6b5a235c81a0e68a044a6b0.js",
     "service-worker.js": "/cookiecrud/service-worker.js",
     "static/css/main.6ff23483.chunk.css.map": "/cookiecrud/static/css/main.6ff23483.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.26fe1535.js",
     "static/js/2.c8e1dce7.chunk.js",
     "static/css/main.6ff23483.chunk.css",
-    "static/js/main.a1a7f7d6.chunk.js"
+    "static/js/main.19dc1bab.chunk.js"
   ]
 }

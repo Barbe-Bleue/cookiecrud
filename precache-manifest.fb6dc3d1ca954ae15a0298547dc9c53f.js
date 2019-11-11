@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e079f9897bfcb0dc34fcdffe436a763",
+    "revision": "ebca81d04f1b0c7eefb9b234ca3fdc57",
     "url": "/cookiecrud/index.html"
   },
   {
-    "revision": "68d00b8cb97b961fd567",
+    "revision": "d4b5aa3c141a651d4c1e",
     "url": "/cookiecrud/static/css/main.6ff23483.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cookiecrud/static/js/2.c8e1dce7.chunk.js"
   },
   {
-    "revision": "68d00b8cb97b961fd567",
-    "url": "/cookiecrud/static/js/main.19dc1bab.chunk.js"
+    "revision": "d4b5aa3c141a651d4c1e",
+    "url": "/cookiecrud/static/js/main.4322b25f.chunk.js"
   },
   {
     "revision": "c18c4cfe91443246aa0c",
